@@ -1,3 +1,5 @@
+ReState - A Real Estate App  
+
 ⚙️ Tech Stack
 Expo
 React Native
@@ -5,7 +7,10 @@ TypeScript
 Nativewind
 Appwrite
 Tailwind CSS
-🔋 Features
+
+
+🔋 Features:
+
 👉 Authentication with Google: Secure and seamless user sign-ins using Google’s authentication service.
 
 👉 Home Page: Displays the latest and recommended properties with powerful search and filter functionality.
