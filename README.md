@@ -1,12 +1,13 @@
 ReState - A Real Estate App  
 
 ⚙️ Tech Stack
-Expo
-React Native
-TypeScript
-Nativewind
-Appwrite
-Tailwind CSS
+
+- Expo
+- React Native
+- TypeScript
+- Nativewind
+- Appwrite
+- Tailwind CSS
 
 
 🔋 Features:
